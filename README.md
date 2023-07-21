@@ -47,7 +47,7 @@ The implemented neural network classifier demonstrated promising results in pred
 
 # Final Report
 
-![Result](/final_intro/Sonuc.jpeg)
+![Result](https://github.com/ugurde98/final_intro/blob/main/Sonuc.jpeg)
 
 In this project, an artificial neural network classifier algorithm was implemented to predict four different cancer types using the DNA samples of microbes in human blood. The dataset used for this project consists of blood sample data from 355 individuals, with four most common cancer types: Colon cancer, breast cancer, lung cancer, and prostate cancer.
 
